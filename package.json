@@ -1,6 +1,6 @@
 {
 	"name": "@itcig/browserslist-config",
-	"version": "1.1.4",
+	"version": "1.1.5",
 	"license": "MIT",
 	"description": "Shareable Browserslist config for all @itcig projects",
 	"author": {
@@ -10,8 +10,7 @@
 	"homepage": "https://github.com/itcig/browserlist-config#readme",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/itcig/itcig.git",
-		"directory": "projects/js-packages/browserslist-config"
+		"url": "git+https://github.com/itcig/browserlist-config.git"
 	},
 	"main": "src/index.js",
 	"module": "src/index.js",
