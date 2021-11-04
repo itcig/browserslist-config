@@ -1,5 +1,18 @@
 # Change Log
 
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+### [1.1.6](https://github.com/itcig/itcig/compare/@itcig/browserslist-config@1.1.5...@itcig/browserslist-config@1.1.6) (2021-11-04)
+
+**Note:** Version bump only for package @itcig/browserslist-config
+
+
+
+
+
+# Change Log
+
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
